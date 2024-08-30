@@ -93,6 +93,8 @@ Para a execução do trabalho e para uma boa organização d trabalho, foram uti
 
 ## Tratamento de dados
 
+Para que uma boa análise seja feita, é necessário que os dados estejam limpos e bem organizados. Porém o dataset original continha diversos problemas que precisavam ser resolvidos e padronizados, tais como problema de digitação e dados faltosos. Portanto, era necessário que o dataset original fosse submetido a uma limpeza.
+
 O arquivo [`TratamentoDeDados.ipynb`](src/TratamentoDeDados.ipynb) foi o arquivo utilizado para realização do tratamento de dados. Todas as etapas realizadas estão explicadas dentro do arquivo, bem como algumas decisões importantes que foram tomadas. 
 
 O único ponto que vale a pena ressaltar é que ao fim do tratamento, correção e enriquecimento do dataset, terminamos com algumas colunas que não existiam no dataset original, que são: 
