@@ -83,16 +83,29 @@ Uma das colunas do conjunto de dados é a `Codigo_Situacao_Aluno`, que apresenta
 Devido à alta quantidade de arquivos gerados durante a elaboração do trabalho, esses foram divididos em duas pastas principais:
 - `Datasets` = É a pasta que contém todos os arquivos de dados utilizados durante o trabalho prático. Isso inclui o datasets com os dados dos alunos, que é o foco do trabalho, bem como outros datasets auxiliares utilizados para responder certas perguntas no trabalho.
 - `src` = É a pasta que contém os arquivos `.py` e `.ipynb` criados durante o trabalho. Nele estão o tratamento dos dados e as análises feitas com base nas perguntas previamente formuladas pelo grupo
+- `src/Imagens` = Vale ressaltar que dentro da pasta `src` existe a pasta `Imagens`, que contém algumas imagens que foram utilizadas durante o trabalho para ilustrar melhor os resultados obtidos
+
+![organizacao](src/Imagens/organizacao_tp.png)
   
 # 🔍 Overview do Trabalho
 
+Para a execução do trabalho e para uma boa organização d trabalho, foram utilizados um notebook Jupyter para cada tarefa que percebemos ser necessária realizar com o dataset. Os arquivos utilizados para essas análises e tratamentos são os contidos dentro do diretório `src`. 
+
 ## Tratamento de dados
 
-que que foi feito, colunas geradas, etc
+O arquivo [`TratamentoDeDados.ipynb`](src/TratamentoDeDados.ipynb) foi o arquivo utilizado para realização do tratamento de dados. Todas as etapas realizadas estão explicadas dentro do arquivo, bem como algumas decisões importantes que foram tomadas. 
 
-Identificador,Ano_Nascimento,Sexo,Campus,Curso_Identificador,Curso,UF_Nascimento,Municipio_Nascimento,Admissao,Saida,Codigo_Situacao_Aluno,Situacao_Aluno,Situacao_Aluno_Agrupada,Modalidade_Inscrita,ENEM,Num_Reprovacoes,Raca,CRA,Area,Admissao_Ano,Admissao_Semestre,Saida_Ano,Saida_Semestre
+O único ponto que vale a pena ressaltar é que ao fim do tratamento, correção e enriquecimento do dataset, terminamos com algumas colunas que não existiam no dataset original, que são: 
 
-Identificador,Ano_Nascimento,Sexo,Campus,Curso_Identificador,Curso,UF_Nascimento,Municipio_Nascimento,Admissao,Saida,Codigo_Situacao_Aluno,Situacao_Aluno,Situacao_Aluno_Agrupada,Modalidade_Inscrita,ENEM,Num_Reprovacoes,Raca,CRA
+- Area;
+- Admissao_Ano;
+- Admissao_Semestre;
+- Saida_Ano;
+- Saida_Semestre;
+
+A coluna `area` contém a classificação dos cursos por área de conhecimento, enquando as colunas `Admissao_Ano`, `Admissao_Semestre`, `Saida_Ano`, `Saida_Semestre` são os anos de Saida e Admissao dividos em anos e semestre, para facilitar em algumas análises
+
+O processo de obtenção das colunas foi devidamente explicado dentro do notebook.
 
 ## Respostas as perguntas
 Principal, que que foi feito, foco em que tivemos, métodos usados, etc
