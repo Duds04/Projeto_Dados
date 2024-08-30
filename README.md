@@ -6,6 +6,7 @@
   - [❓ Perguntas](#-perguntas)
     - [Escolha das perguntas](#escolha-das-perguntas)
   - [💭 Coluna código\_situação](#-coluna-código_situação)
+  - [Modalidades cotas](#modalidades-cotas)
   - [🚦 Organização do trabalho](#-organização-do-trabalho)
     - [Pasta src](#pasta-src)
 - [🔍 Overview do Trabalho](#-overview-do-trabalho)
@@ -78,6 +79,19 @@ Uma das colunas do conjunto de dados é a `Codigo_Situacao_Aluno`, que apresenta
 | Y | Afastamento |
 | Z | Trancamento por motivo de saúde |
 
+## Modalidades cotas
+
+As modalidades abaixo foram retiradas diretamente do [Edital UFV SISU 2018](https://www2.pse.ufv.br/wp-content/uploads/2018/01/Edital-UFV-SISU-2018.pdf).
+- MODALIDADE 1 – Candidatos que cursaram o ensino médio integralmente em escolas públicas brasileiras, autodeclarados pretos, pardos ou indígenas, com renda familiar bruta mensal igual ou inferior a 1,5 (um vírgula cinco) salário mínimo per capita. 
+- MODALIDADE 2 – Candidatos que cursaram o ensino médio integralmente em escolas públicas brasileiras, autodeclarados pretos, pardos ou indígenas, com renda familiar bruta mensal igual ou inferior a 1,5 (um vírgula cinco) salário mínimo per capita e pessoa com deficiência. 
+- MODALIDADE 3 – Candidatos que cursaram o ensino médio integralmente em escolas públicas brasileiras, que NÃO se autodeclaram pretos, pardos ou indígenas, com renda familiar bruta mensal igual ou inferior a 1,5 (um vírgula cinco) salário mínimo per capita. 
+- MODALIDADE 4 – Candidatos que cursaram o ensino médio integralmente em escolas públicas brasileiras, que NÃO se autodeclaram pretos, pardos ou indígenas, com renda familiar bruta mensal igual ou inferior a 1,5 (um vírgula cinco) salário mínimo per capita e pessoa com deficiência. 
+- MODALIDADE 5 – Candidatos que cursaram o ensino médio integralmente em escolas públicas brasileiras, autodeclarados pretos, pardos ou indígenas, independentemente da renda familiar. 
+- MODALIDADE 6 – Candidatos que cursaram o ensino médio integralmente em escolas públicas brasileiras, autodeclarados pretos, pardos ou indígenas, independentemente da renda familiar e pessoa com deficiência. 
+- MODALIDADE 7 – Candidatos que cursaram o ensino médio integralmente em escolas públicas brasileiras, que NÃO se autodeclaram pretos, pardos ou indígenas, independentemente da renda familiar. 
+- MODALIDADE 8 – Candidatos que cursaram o ensino médio integralmente em escolas públicas brasileiras, que NÃO se autodeclaram pretos, pardos ou indígenas, independentemente da renda familiar e pessoa com deficiência. 
+- MODALIDADE 9 – Candidatos de AMPLA CONCORRÊNCIA que serão classificados somente de acordo com as notas obtidas no ENEM 2017.  
+
 ## 🚦 Organização do trabalho 
 
 Devido à alta quantidade de arquivos gerados durante a elaboração do trabalho, esses foram divididos em duas pastas principais:
@@ -128,3 +142,4 @@ https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/
 
 http://portal.mec.gov.br/component/tags/tag/politica-de-cotas#:~:text=A%20política%20de%20cotas%20foi,proposta%20foi%20aprovada%20por%20unanimidade.
 
+https://www2.pse.ufv.br/wp-content/uploads/2018/01/Edital-UFV-SISU-2018.pdf
