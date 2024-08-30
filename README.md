@@ -143,3 +143,4 @@ https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/
 http://portal.mec.gov.br/component/tags/tag/politica-de-cotas#:~:text=A%20política%20de%20cotas%20foi,proposta%20foi%20aprovada%20por%20unanimidade.
 
 https://www2.pse.ufv.br/wp-content/uploads/2018/01/Edital-UFV-SISU-2018.pdf
+https://mundoeducacao.uol.com.br/geografia/a-populacao-regiao-sudeste.htm
