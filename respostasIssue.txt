@@ -1,0 +1,51 @@
+1 - 	
+Dentro da ufv (plotar gráficos para ver se compensa separar cursos e campus)
+Analise dos 10 anos antecedentes a pandemia
+Analise da data de saída entre 2020 e 2022 (pandemia) junto com a respsectiva situação ou código da situação (símbolos:saida A, T - continuidade: C, N ) Códigos chaves: saída e trancamento
+
+2 - Declaração racial na 2 (Plotar gráfico para ver essa evolução, 2012 surgiu o sistema de cotas olhar como isso influencia. TAlvez usar o termo identidade etnica, visto que as pessoas começaram a se declarar mais, ou seja, se identificar com o que são (nao sei se faz sentido)
+
+Declaração Etnica: o que o individuo declarou durante a inscrição (preto, branco, amarelo, etc)
+
+3 - perfil étnico está relacionado ao aumento número de vagas para cotas?
+
+nao entendi
+
+4 - 
+Pegar dados do IBGE de qual é a distribuição etnica por estado/regiao (definir um)
+
+5- "Caso exista, a quarentena influenciou a diversidade regional dos alunos? Se sim, como?"
+Diversidade seria os perfis que se encaixam em alguma cota -- nao seria regional zeria subregional (seria estado
+
+qual diversificado são as cidades natais dos alnos que vieram para a UFV
+
+
+6 -
+Plotar gráfico, olhar médias e desvios padrões
+Vai analisar o percentual alunos de cada sexo % total de alunos  (em cada período antes e pós pandemia
+Pegar a msm quantidade de anos só pra comparação
+Ex pegar 2020 a 2024
+E 2015 a 2019
+Talvez fazer isso por curso, visto que não será tão dificil
+
+============================
+TERMINAR DE REVISAR E COMPLEMENTAR ↓
+
+7- 
+Tatar os alunos de cada ano como uma única população, independente de quando entraram, quando vão formar.  os anos anteriores tendem a manter o mesmo padrão de entradas e saídas, não tendo que levar em conta a situação. Fazer o mesmo pra pandemia
+
+8 - 
+Analisar gráficos, observar se houve miigração entre cursos, fazer comparação entre a amostra pós pandemia e pré pandemia. Como alguns grupos de pessoas pegaram as duas fazes (pre e pos pandemia) deve-se tratar para talvez tirar essas amostras enviesadas (tbm analisar não somente a entrada no curso, mas tbm a saída, já que pessoas que já estavam cursando podem ter saído por conta da pandemia)
+
+9 - 
+Perfil pela análise de cotas e CRA e nota do enem (decidir como avaliar isso)
+
+11 - igual 9
+
+
+
+5-6 = A quarentena começou efetivamente em 2020/2, então pegaríamos os dados dai em diante apenas dos ingressantes. Amostras bases de comparação: antes de 2020/2 e depois de 2020/2. Nesse caso não há problema avaliar somente ingressantes, pois a região e sexo não vão mudar após a pandemia (vamos assumir que os alunos não vao mudar de região)
+
+
+14 - % do total de alunos
+15 - coluna de formado - coluna de entrou - tempo do curso(teria que ter uma tabela dos tempos???) = 0
