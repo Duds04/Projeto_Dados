@@ -7,6 +7,10 @@
   - [📝 Análise superficial dos dados](#-análise-superficial-dos-dados)
   - [💭 Coluna código\_situação](#-coluna-código_situação)
   - [🚦 Organização do trabalho](#-organização-do-trabalho)
+- [🔍 Overview do Trabalho](#-overview-do-trabalho)
+  - [Tratamento de dados](#tratamento-de-dados)
+  - [Respostas as perguntas](#respostas-as-perguntas)
+- [Referências](#referências)
 
 # TRABALHO ANÁLISE DE DADOS ENFOQUE NA PANDEMIA 
 
@@ -80,3 +84,24 @@ Devido à alta quantidade de arquivos gerados durante a elaboração do trabalho
 - `Datasets` = É a pasta que contém todos os arquivos de dados utilizados durante o trabalho prático. Isso inclui o datasets com os dados dos alunos, que é o foco do trabalho, bem como outros datasets auxiliares utilizados para responder certas perguntas no trabalho.
 - `src` = É a pasta que contém os arquivos `.py` e `.ipynb` criados durante o trabalho. Nele estão o tratamento dos dados e as análises feitas com base nas perguntas previamente formuladas pelo grupo
   
+# 🔍 Overview do Trabalho
+
+## Tratamento de dados
+
+que que foi feito, colunas geradas, etc
+
+Identificador,Ano_Nascimento,Sexo,Campus,Curso_Identificador,Curso,UF_Nascimento,Municipio_Nascimento,Admissao,Saida,Codigo_Situacao_Aluno,Situacao_Aluno,Situacao_Aluno_Agrupada,Modalidade_Inscrita,ENEM,Num_Reprovacoes,Raca,CRA,Area,Admissao_Ano,Admissao_Semestre,Saida_Ano,Saida_Semestre
+
+Identificador,Ano_Nascimento,Sexo,Campus,Curso_Identificador,Curso,UF_Nascimento,Municipio_Nascimento,Admissao,Saida,Codigo_Situacao_Aluno,Situacao_Aluno,Situacao_Aluno_Agrupada,Modalidade_Inscrita,ENEM,Num_Reprovacoes,Raca,CRA
+
+## Respostas as perguntas
+Principal, que que foi feito, foco em que tivemos, métodos usados, etc
+
+
+
+# Referências
+
+https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/38719-censo-2022-pela-primeira-vez-desde-1991-a-maior-parte-da-populacao-do-brasil-se-declara-parda
+
+http://portal.mec.gov.br/component/tags/tag/politica-de-cotas#:~:text=A%20política%20de%20cotas%20foi,proposta%20foi%20aprovada%20por%20unanimidade.
+
