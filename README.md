@@ -7,6 +7,7 @@
   - [📝 Análise superficial dos dados](#-análise-superficial-dos-dados)
   - [💭 Coluna código\_situação](#-coluna-código_situação)
   - [🚦 Organização do trabalho](#-organização-do-trabalho)
+    - [Pasta src](#pasta-src)
 - [🔍 Overview do Trabalho](#-overview-do-trabalho)
   - [Tratamento de dados](#tratamento-de-dados)
   - [Respostas as perguntas](#respostas-as-perguntas)
@@ -83,7 +84,14 @@ Uma das colunas do conjunto de dados é a `Codigo_Situacao_Aluno`, que apresenta
 Devido à alta quantidade de arquivos gerados durante a elaboração do trabalho, esses foram divididos em duas pastas principais:
 - `Datasets` = É a pasta que contém todos os arquivos de dados utilizados durante o trabalho prático. Isso inclui o datasets com os dados dos alunos, que é o foco do trabalho, bem como outros datasets auxiliares utilizados para responder certas perguntas no trabalho.
 - `src` = É a pasta que contém os arquivos `.py` e `.ipynb` criados durante o trabalho. Nele estão o tratamento dos dados e as análises feitas com base nas perguntas previamente formuladas pelo grupo
-- `src/Imagens` = Vale ressaltar que dentro da pasta `src` existe a pasta `Imagens`, que contém algumas imagens que foram utilizadas durante o trabalho para ilustrar melhor os resultados obtidos
+
+### Pasta src
+
+A pasta `src` é a pasta que contém aquilo que foi utilizado de mais importante para realização das análises. Ela contém: 
+
+- `Imagens` = Contém algumas imagens que foram utilizadas durante o trabalho para ilustrar melhor os resultados obtidos
+- `Funcoes.py` = É um arquivo com algumas funções que foram utilizados durante o desenvolvimento do trabalho. A ideia por trás da criação de um arquivo com funções separadas é permitir que elas fossem usadas em qualquer arquivo, e não somente dentro do `.ipynb` em que ela foi criada
+- Os arquivos `RespostasParte1.ipynb`, `Regressoes.ipynb` e `TratamentoDeDados.ipynb` são a parte principal do trabalho, e portanto serão explicados separadamentes adiante
 
 ![organizacao](src/Imagens/organizacao_tp.png)
   
@@ -111,6 +119,7 @@ O processo de obtenção das colunas foi devidamente explicado dentro do noteboo
 
 ## Respostas as perguntas
 Principal, que que foi feito, foco em que tivemos, métodos usados, etc
+
 
 
 
