@@ -4,7 +4,8 @@
   - [🎯 Objetivos](#-objetivos)
   - [✍️ Introdução](#️-introdução)
   - [❓ Perguntas](#-perguntas)
-  - [� Coluna código\_situação](#-coluna-código_situação)
+    - [Escolha das perguntas](#escolha-das-perguntas)
+  - [💭 Coluna código\_situação](#-coluna-código_situação)
   - [🚦 Organização do trabalho](#-organização-do-trabalho)
     - [Pasta src](#pasta-src)
 - [🔍 Overview do Trabalho](#-overview-do-trabalho)
@@ -31,6 +32,7 @@ A UFV é uma grande universidade, com grande diversidade e alunos vindos de dive
 Tendo isso em vista, este trabalho visou levantar e explorar essas perguntas que possivelmente tragam informações relevantes sobre os alunos. Algumas perguntas têm o enfoque específico a pandemia que foi um período que marcou significadamente uma variação no processos da faculdade. 
 
 ## ❓ Perguntas 
+
 1.  Como evoluiu a declaração étnica ao longo do tempo?
 2.  Como evoluiu o perfil étnico da universidade ao longo do tempo, em particular no pré, durante e pós pandemia?
 3.  Qual é a relação entre a cota de ingresso dos alunos e sua região (estado/sub-região?) de origem?
@@ -43,8 +45,11 @@ Tendo isso em vista, este trabalho visou levantar e explorar essas perguntas que
 10. Qual campus recebe mais pessoas de fora do estado de Minas Gerais?
 11. O tempo de duração definido para cada curso condiz com a media de duração gasto pelos alunos?
 
+### Escolha das perguntas
 
-Formulamos 4 perguntas extras além das 10 requeridas, para caso seja necessário descartar alguma pergunta por impossibilidade de implementações.
+Inicialmente o grupo havia escolhido 15 perguntas, que podem ser conferidas no arquivo [Perguntas e Respostas](./PerguntasERespostas.md). Esse arquivo possui as issues geradas no Github e as atualização feitas para resolução das questões. 
+
+Após a primeira entrega, o grupo decidiu ficar com as 11 questões apresentadas acima
 
 ## 💭 Coluna código_situação
 

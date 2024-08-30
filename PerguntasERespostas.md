@@ -1,22 +1,25 @@
-## ❓ Perguntas 
-1. Como a quarentena influenciou a taxa de evasão? (no geral e por cota)
+# Evolução e escolha das perguntas
+
+## ❓ Perguntas Originais
+1. ~~Como a quarentena influenciou a taxa de evasão? (no geral e por cota)~~
 2. Como evoluiu a declaração étnica ao longo do tempo?
 3. Como evoluiu o perfil étnico da universidade ao longo do tempo, em particular no pré, durante e pós pandemia?
 4. Qual é a relação entre a cota de ingresso dos alunos e sua região (estado/sub-região?) de origem?
 5. A quarentena influenciou a diversidade regional dos alunos? Se sim, como?
 6. A quarentena influenciou a diversidade de sexo biológico dos alunos? Se sim, como?
-7. Qual foi a influência da pandemia no coeficiente de rendimento acadêmico por curso? (baseando-se no ano de ingresso dos alunos) 
+7. ~~Qual foi a influência da pandemia no coeficiente de rendimento acadêmico por curso? (baseando-se no ano de ingresso dos alunos)~~
 8. Como a demanda por curso foi afetada pela passagem do tempo e pela pandemia?
-9. Como é o perfil dos alunos que evadiram ao longo do tempo e por curso? (no geral e atributos específicos)
+9. ~~Como é o perfil dos alunos que evadiram ao longo do tempo e por curso? (no geral e atributos específicos)~~
 10. Qual é o tempo de permanência média por curso ao longo do tempo? (destaque para a pandemia)
-11. Como é o perfil dos alunos de cada campus nos anos analisados?
+11. ~~Como é o perfil dos alunos de cada campus nos anos analisados?~~
 12. Como evoluíram as notas do enem por curso ao longo do tempo (por ano)? E como foi essa evolução por contas?
 13. Como é a média do CR por curso e por ano?
 14. Qual campus recebe mais pessoas de fora do estado de Minas Gerais?
 15. O tempo de duração definido para cada curso condiz com a media de duração gasto pelos alunos?
 
+Observação: as linhas riscadas são as perguntas que foram descartadas, gerando 11 questões que foram as que o grupo escolheu para efetivamente responder
 
-## Respostas da Issue do Github( respostas do Germano)
+## Respostas da Issue do Github (primeira entrega)
 
 1. O que seria influenciar? evasão? maior número de reprovação?
 2. Façam essa análise por porcentagem. (quantidade de alunos declarados pela quantidade total de alunos). O que seria declaração étnica?
@@ -134,3 +137,20 @@ Resposta 12: O que os gráficos querem me dizer?
 Resposta 13: Melhor análise do trabalho. teve um carinho para entender o que era o ano 0.
 Resposta 14: O que os gráficos querem me dizer? Qual é a conclusão?
 Resposta 15: O que a tabela quer me dizer? Qual é a conclusão?
+
+
+1. Como a quarentena influenciou a taxa de evasão? (no geral e por cota)
+2. Como evoluiu a declaração étnica ao longo do tempo?
+3. Como evoluiu o perfil étnico da universidade ao longo do tempo, em particular no pré, durante e pós pandemia?
+4. Qual é a relação entre a cota de ingresso dos alunos e sua região (estado/sub-região?) de origem?
+5. A quarentena influenciou a diversidade regional dos alunos? Se sim, como?
+6. A quarentena influenciou a diversidade de sexo biológico dos alunos? Se sim, como?
+7. Qual foi a influência da pandemia no coeficiente de rendimento acadêmico por curso? (baseando-se no ano de ingresso dos alunos) 
+8. Como a demanda por curso foi afetada pela passagem do tempo e pela pandemia?
+9. Como é o perfil dos alunos que evadiram ao longo do tempo e por curso? (no geral e atributos específicos)
+10. Qual é o tempo de permanência média por curso ao longo do tempo? (destaque para a pandemia)
+11. Como é o perfil dos alunos de cada campus nos anos analisados?
+12. Como evoluíram as notas do enem por curso ao longo do tempo (por ano)? E como foi essa evolução por contas?
+13. Como é a média do CR por curso e por ano?
+14. Qual campus recebe mais pessoas de fora do estado de Minas Gerais?
+15. O tempo de duração definido para cada curso condiz com a media de duração gasto pelos alunos?
