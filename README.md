@@ -125,3 +125,7 @@ http://www.catalogo.ufv.br/index.php?campus=vicosa&ano=2023
 https://ccp.caf.ufv.br/historico/
 
 https://www2.pse.ufv.br/wp-content/uploads/2024/01/UFV_SISU2023_Pontuacoes_Minimas.pdf
+
+https://www.gov.br/mec/pt-br/acesso-a-informacao/institucional/estrutura-organizacional/orgaos-especificos-singulares/secretaria-de-educacao-superior/arquivos-1/RELATORIO_LEI_COTAS.pdf
+
+http://portal.mec.gov.br/component/tags/tag/35544-lei-de-cotas
