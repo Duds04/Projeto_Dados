@@ -120,5 +120,8 @@ https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/
 
 http://portal.mec.gov.br/component/tags/tag/politica-de-cotas#:~:text=A%20política%20de%20cotas%20foi,proposta%20foi%20aprovada%20por%20unanimidade.
 
-
 http://www.catalogo.ufv.br/index.php?campus=vicosa&ano=2023
+
+https://ccp.caf.ufv.br/historico/
+
+https://www2.pse.ufv.br/wp-content/uploads/2024/01/UFV_SISU2023_Pontuacoes_Minimas.pdf
