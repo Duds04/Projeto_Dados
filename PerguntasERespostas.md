@@ -21,24 +21,24 @@ Observação: as linhas riscadas são as perguntas que foram descartadas, gerand
 
 ## Respostas da Issue do Github (primeira entrega)
 
-1. O que seria influenciar? evasão? maior número de reprovação?
+1. ~~O que seria influenciar? evasão? maior número de reprovação?~~
 2. Façam essa análise por porcentagem. (quantidade de alunos declarados pela quantidade total de alunos). O que seria declaração étnica?
 3. Está relacionado ao aumento do número de vagas?
 4. De onde vocês vão pegar os dados de estado/sub-região? IBGE?
 5. Como vão medir essa influência? O que é a diversidade regional? subregional ou regional? Será que existe diversidade regional?
 6. Como vão medir essa diversidade?
-7. Vão fazer teste de hipótese? Como vão medir essa influência? A base não tem o histórico acadêmico do aluno antes e depois da pandemia
+7. ~~Vão fazer teste de hipótese? Como vão medir essa influência? A base não tem o histórico acadêmico do aluno antes e depois da pandemia~~
 8. Vão fazer teste de hipótese?
-9. O que é o "perfil" do aluno?
+9. ~~O que é o "perfil" do aluno?~~
 10.  OK
-11.  O que é o "perfil" do aluno?
+11.  ~~O que é o "perfil" do aluno?~~
 12.  OK
 13.  OK
 14.  OK
 15.  OK.
 OBS.: Pergunta 5 e 6: Influência é a comparação? Se sim, vão fazer teste de hipótese para medir a significância da diferença da distribuição dos dados nos dois períodos?
 Pergunta 14: Seria interessante analisar por curso
-
+****
 Código: OK, façam um relatório de mudanças aos poucos para eu acompanhar a evolução, pode ser em topicos para simplificar e para vocês não se perderem depois
 
 ## Nossas soluções para a Issue
