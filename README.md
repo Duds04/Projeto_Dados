@@ -54,7 +54,7 @@ Após a primeira entrega, o grupo decidiu ficar com as 11 questões apresentadas
 
 ## 💭 Coluna código_situação
 
-Uma das colunas do conjunto de dados é a `Codigo_Situacao_Aluno`, que apresenta diversos valores. O significados dos valores é dado pela tabela abaixo
+Uma das colunas do conjunto de dados é a `Codigo_Situacao_Aluno`, que apresenta diversos valores. Os significados dos códigos forma obtidos do próprio dataset, da coluna `Situacao_Aluno`. Veja a tabela de significados abaixo:
 
 | Símbolo    | Significado |
 | -------- | ------- |
